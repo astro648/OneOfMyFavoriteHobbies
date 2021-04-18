@@ -9,3 +9,5 @@ I made this as a practice website and also to show why I like making YouTube Vid
 I used Brackets as the IDE and HTML, CSS, and JS as the coding languages to make this. I also used some online tools for some parts of this.
 #### Where can I learn coding?
 There are many places to learn coding, but generally, if you want to pursue coding, I would recommend finding a teacher or class to learn coding.
+## Why I Used Brackets IDE To Develop This
+I used Brackets IDE to develop this because it is simple and easy to use. Unfortunately, Adobe is stopping support for it at September, but people are probably going to revive it by making forks of it.
