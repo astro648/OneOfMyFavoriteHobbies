@@ -1,7 +1,7 @@
 # One Of My Favorite Hobbies Webpage
 This webpage is about one of my favorite hobbies, which is making YouTube Videos.
 ## How to Use
-There are menu buttons on the top of the page which will scroll you to what it refers to. (Will be added in one of the next phases)
+There are menu buttons on the top of the page which will scroll you to what it refers to. (Will be added in one of the next updates)
 ## Q&A
 #### Why did you make this?
 I made this as a practice website and also to show why I like making YouTube Videos.
