@@ -39,6 +39,10 @@ p {
 }
 
 .link:hover {
-    background-color: darkblue;
-    color: aliceblue
+    background-color: lightskyblue;
+    color: aliceblue;
+}
+
+html {
+    scroll-behavior: smooth;
 }
