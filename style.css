@@ -39,5 +39,6 @@ p {
 }
 
 .link:hover {
-    background-color: aliceblue;
+    background-color: darkblue;
+    color: aliceblue
 }
