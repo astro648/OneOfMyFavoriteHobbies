@@ -10,6 +10,6 @@ I used Brackets as the IDE and HTML, CSS, and JS as the coding languages to make
 #### Where can I learn coding?
 There are many places to learn coding, but generally, if you want to pursue coding, I would recommend finding a teacher or class to learn coding.
 ## Why I Used Brackets IDE To Develop This
-I used Brackets IDE to develop this because it is simple and easy to use. Unfortunately, Adobe is stopping support for it at September, but people are probably going to revive it by making forks of it.
+I used Brackets IDE to develop this because it is simple and easy to use. Unfortunately, Adobe is stopping support for it at September, but people are probably going to revive and support it by making forks of it and updating and/or modifying it.
 ## When will this website be finished?
 This website will be finished before May 3, 2021.
