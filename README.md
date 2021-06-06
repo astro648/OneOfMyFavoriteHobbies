@@ -6,3 +6,5 @@ There are menu buttons on the top of the page which will scroll you to what it r
 You can go to the wiki for that information.
 ## DISCLAIMER
 Images are accurate as of 4-18-2021 but may not be accurate for dates after that.
+## How do I get onto the website?
+This is explained in more detail on the wiki just in case you don't get it, but on the bottom right corner of the "Code" page, there is an "Environments" section and under that there is a "github-pages" entry. Click that and click the most recent one to go onto the site.
